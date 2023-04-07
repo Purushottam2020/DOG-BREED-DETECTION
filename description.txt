@@ -1,0 +1,1 @@
+This is a CNN model developed to detect dog breed detection and it can be used with any kind of classification datasets.
